@@ -117,7 +117,7 @@ Key questions addressed during the project:
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ai-data-insights-internship.git
+   git clone https://github.com/ALLAM-SRIDHAR/AI-Powered-Data-Insights-Virtual-Internship.git
    cd ai-data-insights-internship
 2. Install dependencies:
    pip install -r requirements.txt
